@@ -1,0 +1,22 @@
+﻿Object Test Case of a Water Bottle :
+
+
+1. Check the height of the water bottle.
+2. Check the width of the water bottle.
+3. Check the weight of the water bottle.
+4. Check the body material of the water bottle.
+5. Check the color of the water bottle.
+6. Check the shape of the water bottle.
+7. Check the type of cap. 
+8. Check the cap material.
+9. Check the cap color.
+10.  Check the sealing of the cap.
+11.  Check if the cap is easy to open and close.
+12.  Check the ability to keep liquids hot or cold 
+13.  Check if the bottle can hold the specified volume.
+14.  Check if the bottle can fit in a standard cup holder.
+15.  Check if the bottle is reusable and environmentally friendly
+16.  Check the usability of the bottle in different temperatures.
+17.  Check if the bottle has any handle or strap.
+18.  Check the brand name and logo placement on the bottle.
+19.  Check if the bottle is leaking.
